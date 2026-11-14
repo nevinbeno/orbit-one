@@ -2,8 +2,7 @@
 
 A story-driven website for school-age space fans about the hardware NASA has left on the Moon, on Mars and in deep space. Made for the **2026 NASA Space Apps Challenge**, challenge: *Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars*.
 
-**Live site:** 
-**Demo video:** 
+**Live site:** [Click Here](https://nevinbeno.github.io/orbit-one/) 
 
 ## What it does
 
